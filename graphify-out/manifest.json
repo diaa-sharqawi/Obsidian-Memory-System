@@ -1,0 +1,50 @@
+{
+  "src/calculator.js": {
+    "mtime": 1795672652.7292473,
+    "seen": 1795688885.2115579,
+    "ast_hash": "ed74e17c2e6fdf0eece30bfce7421e7a",
+    "semantic_hash": "ed74e17c2e6fdf0eece30bfce7421e7a"
+  },
+  "src/calculator.test.js": {
+    "mtime": 1795682750.1468573,
+    "seen": 1795688885.21156,
+    "ast_hash": "f67bf753436df58bf9ec17cf18bf68e9",
+    "semantic_hash": "f67bf753436df58bf9ec17cf18bf68e9"
+  },
+  "src/cart.js": {
+    "mtime": 1795688749.7338626,
+    "seen": 1795688885.211561,
+    "ast_hash": "553d8a34095b6a9b8c85022dc0d850e1",
+    "semantic_hash": "553d8a34095b6a9b8c85022dc0d850e1"
+  },
+  "src/inventory.js": {
+    "mtime": 1795688749.7321327,
+    "seen": 1795688885.211562,
+    "ast_hash": "1b2fe8dcea305c32c5f8ed1bf5ec8ae1",
+    "semantic_hash": "1b2fe8dcea305c32c5f8ed1bf5ec8ae1"
+  },
+  "src/orders.js": {
+    "mtime": 1795688749.735979,
+    "seen": 1795688885.211562,
+    "ast_hash": "d740819e6e41e9abb97d5ce72505a57f",
+    "semantic_hash": "d740819e6e41e9abb97d5ce72505a57f"
+  },
+  "src/pricing.js": {
+    "mtime": 1795688749.730234,
+    "seen": 1795688885.211563,
+    "ast_hash": "f3bbb6ad6634ea8d8c8c5fe0588a2708",
+    "semantic_hash": "f3bbb6ad6634ea8d8c8c5fe0588a2708"
+  },
+  "src/shop.test.js": {
+    "mtime": 1795688749.7378461,
+    "seen": 1795688885.211563,
+    "ast_hash": "b002f7aef9f062d304cbedc917f88c6a",
+    "semantic_hash": "b002f7aef9f062d304cbedc917f88c6a"
+  },
+  "src/ARCHITECTURE.md": {
+    "mtime": 1795688749.739723,
+    "seen": 1795688885.211564,
+    "ast_hash": "2a835eebab23900e1d2799799c17f78c",
+    "semantic_hash": "2a835eebab23900e1d2799799c17f78c"
+  }
+}
